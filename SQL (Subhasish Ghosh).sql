@@ -2,7 +2,6 @@ SHOW DATABASES;
 
 USE mavenmovies;
 
---                                                        SQL ASSINGMENT
 SHOW TABLES;
 -- 1. Identify the primary keys and foreign keys in the Maven Movies database. Discuss the differences.
 
